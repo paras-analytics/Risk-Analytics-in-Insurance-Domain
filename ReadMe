@@ -34,7 +34,7 @@ This project focuses on end-to-end analysis of insurance data to identify risk p
 
 
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 ---
 
 ##  Data Schema
